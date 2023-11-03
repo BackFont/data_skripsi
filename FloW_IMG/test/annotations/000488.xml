@@ -1,0 +1,33 @@
+<annotation>
+    <folder>myPerson</folder>
+    <filename>5308870940.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>381</xmin>
+            <ymin>307</ymin>
+            <xmax>427</xmax>
+            <ymax>331</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1069</xmin>
+            <ymin>337</ymin>
+            <xmax>1154</xmax>
+            <ymax>373</ymax>
+        </bndbox>
+    </object>
+</annotation>
